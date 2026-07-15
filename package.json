@@ -1,0 +1,11 @@
+{
+  "name": "rangoons-live",
+  "version": "1.0.0",
+  "description": "Live commerce storefront (flash sales + livestream checkout) paired with but separate from rangoons-core backend.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test test.js"
+  },
+  "engines": { "node": ">=18" }
+}

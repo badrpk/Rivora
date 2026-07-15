@@ -1,20 +1,9 @@
-# Rangoons Live
+# Moved → [rangoons](https://github.com/badrpk/rangoons)
 
-Live commerce storefront (flash sales + livestream checkout) paired with but separate from rangoons-core backend.
+This project was **merged** into one public monorepo.
 
-## Quick start
+**https://github.com/badrpk/rangoons**
 
-```bash
-npm start
-# http://127.0.0.1:8765
-```
+Live storefront → `apps/live`
 
-## Tests
-
-```bash
-npm test
-```
-
-## Portfolio
-
-See [PORTFOLIO.md](PORTFOLIO.md).
+Star, fork, download, and contribute on the monorepo.
